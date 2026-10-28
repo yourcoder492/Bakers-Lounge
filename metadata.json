@@ -1,0 +1,6 @@
+{
+  "name": "The Baker's Legend",
+  "description": "Artisanal recipe collection and interactive baker companion featuring 70 tested breads, pastries, cakes, and bakes with step-by-step guides, recipe notebook, and personalized baking progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
